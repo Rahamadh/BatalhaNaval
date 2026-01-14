@@ -1,0 +1,14 @@
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\bin\Debug\net9.0\Batalha Naval.exe
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\bin\Debug\net9.0\Batalha Naval.deps.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\bin\Debug\net9.0\Batalha Naval.runtimeconfig.json
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\bin\Debug\net9.0\Batalha Naval.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\bin\Debug\net9.0\Batalha Naval.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\Batalha Naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\Batalha Naval.AssemblyInfoInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\Batalha Naval.AssemblyInfo.cs
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\Batalha Naval.csproj.CoreCompileInputs.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\Batalha Naval.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\refint\Batalha Naval.dll
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\Batalha Naval.pdb
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\Batalha Naval.genruntimeconfig.cache
+C:\Users\ext.fasilva\Documents\Desenvolvimento\C#\ExerciciosCS\Batalha Naval\obj\Debug\net9.0\ref\Batalha Naval.dll

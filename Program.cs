@@ -11,8 +11,8 @@ class BatalhaNaval
     static readonly int[] tamanhos = { 1, 2, 3, 4 };  // Total: 10 partes
     static int[] partesAtingidas = new int[4];        // Contador de acertos por navio
     static int naviosAfundados = 0;
-    static int tirosRestantes = 20;                   // ATENÇÃO: Com 5 tiros é IMPOSSÍVEL vencer (10 partes necessárias).
-                                                    // Usei 20 para tornar jogável. Mude para 5 se quiser desafio extremo/Game Over sempre.
+    static int tirosRestantes = 20;                  
+                                                
 
     static void Main(string[] args)
     {
